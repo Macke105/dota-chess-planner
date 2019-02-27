@@ -1,0 +1,162 @@
+.hero {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    padding-left: 60px;
+    padding-right: 10px;
+    z-index: 1;
+    text-align: left;
+
+    &:hover {
+        background-color: rgba($color: #000000, $alpha: 0.2);
+    }
+
+    &:before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background: black;
+        opacity: .2;
+        content: "";
+        z-index: -1;
+    }
+
+    .hero__icon {
+        width: 32px;
+        height: 32px;
+    }
+
+    .hero__name {
+        width: 200px;
+    }
+
+    .hero__cost {
+        width: 80px;
+        color: #E6E6E6;
+        text-align: right;
+
+        & span {
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: #E6E6E6;
+            border-radius: 28px;
+            color: #000;
+            text-align: center;
+            line-height: 28px;
+        }
+
+        &__1 {
+            color: #B7B7B7;
+        }
+        &__2{
+            color: #9498BC;
+        }
+        &__3{
+            color: #4344F4;
+        }
+        &__4{
+            color: #FD03FB;
+        }
+        &__5{
+            color: #F98B00;
+        }
+    }
+
+    .hero__species {
+        display: flex;
+        justify-content: flex-start;
+        text-align: left;
+        width: 200px;
+
+        div:nth-of-type(1) {
+            margin-right: 20px;
+        }
+
+        &__Orc {
+            color: #E7032B;
+        }
+        &__Beast {
+            color: #38820E;
+        }
+        &__Ogre {
+            color: #11B7D2;
+        }
+        &__Undead {
+            color: #464646;
+        }
+        &__Goblin {
+            color: #C53716;
+        }
+        &__Troll {
+            color: #8F926B;
+        }
+        &__Human {
+            color: white;
+        }
+        &__Demon {
+            color: #8715CF;
+        }
+        &__Naga {
+            color: #4E48CF;
+        }
+        &__Elf {
+            color: #1076CA;
+        }
+        &__Element {
+            color: #FBF91C;
+        }
+        &__Satyr {
+            color: rgb(138, 42, 202);
+        }
+        &__Dwarf {
+            color: orange;
+        }
+        &__Dragon {
+            color: darkred;
+        }
+    }
+
+    .hero__ability {
+        width: 100px;
+    }
+
+    .hero__className {
+        width: 200px;
+
+        &__Assassin {
+            color: #E7D453;
+        }
+        &__Demon {
+            color: #6C0793
+        }
+        &__Druid {
+            color: #D86304
+        }
+        &__Hunter {
+            color: #9ABE66;
+        }
+        &__Knight {
+            color: #ED8CB7;
+        }
+        &__Mage {
+            color: #66C5E1;
+        }
+        &__Mech {
+            color: #B57A00;
+        }
+        &__Shaman {
+            color: #2036B0;
+        }
+        &__Warlock {
+            color: #5C489F;
+        }
+        &__Warrior {
+            color: #B38E61;
+        }
+    }
+}
+

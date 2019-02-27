@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "name": "Berserkers Call",
+        "description": "Active",
+        "type": "",
+        "cooldown": [10],
+        "duration": [2,3,4],
+        "icon": "./assets/hero-abilities/axe_berserkers_call.png"
+    },
+    {
+        "id": 1,
+        "name": "Berserkers Call",
+        "description": "Active",
+        "type": "",
+        "cooldown": [10],
+        "duration": [2,3,4],
+        "icon": "./assets/hero-abilities/axe_berserkers_call.png"
+    }
+]

@@ -1,0 +1,525 @@
+[
+    {
+        "id": 0,
+        "name": "Axe",
+        "species": ["Orc"],
+        "className": "Warrior",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/axe.png"
+    },
+    {
+        "id": 1,
+        "name": "Enchantress",
+        "species": ["Beast"],
+        "className": "Druid",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/enchantress.png"
+    },
+    {
+        "id": 2,
+        "name": "Ogre Magi",
+        "species": ["Ogre"],
+        "className": "Mage",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/ogre_magi.png"
+    },
+    {
+        "id": 3,
+        "name": "Tusk",
+        "species": ["Beast"],
+        "className": "Warrior",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/tusk.png"
+    },
+    {
+        "id": 4,
+        "name": "Drow Ranger",
+        "species": ["Undead"],
+        "className": "Hunter",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/drow.png"
+    },
+    {
+        "id": 5,
+        "name": "Bounty Hunter",
+        "species": ["Goblin"],
+        "className": "Assassin",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/bounty_hunter.png"
+    },
+    {
+        "id": 6,
+        "name": "Clockwerk",
+        "species": ["Goblin"],
+        "className": "Mech",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/rattletrap.png"
+    },
+    {
+        "id": 7,
+        "name": "Shadow Shaman",
+        "species": ["Troll"],
+        "className": "Shaman",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/shadow_shaman.png"
+    },
+    {
+        "id": 8,
+        "name": "Bat Rider",
+        "species": ["Troll"],
+        "className": "Knight",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/batrider.png"
+    },
+    {
+        "id": 9,
+        "name": "Tinker",
+        "species": ["Goblin"],
+        "className": "Mech",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/tinker.png"
+    },
+    {
+        "id": 10,
+        "name": "Anti Mage",
+        "species": ["Elf"],
+        "className": "Demon Hunter",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/antimage.png"
+    },
+    {
+        "id": 11,
+        "name": "Tiny",
+        "species": ["Element"],
+        "className": "Warrior",
+        "cost": 1,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/tiny.png"
+    },
+    {
+        "id": 12,
+        "name": "Crystal Maiden",
+        "species": ["Human"],
+        "className": "Mage",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/crystal_maiden.png"
+    },
+    {
+        "id": 13,
+        "name": "Beast Master",
+        "species": ["Orc"],
+        "className": "Hunter",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/beastmaster.png"
+    },
+    {
+        "id": 14,
+        "name": "Juggernaut",
+        "species": ["Orc"],
+        "className": "Warrior",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/juggernaut.png"
+    },
+    {
+        "id": 15,
+        "name": "Timbersaw",
+        "species": ["Goblin"],
+        "className": "Mech",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/timbersaw.png"
+    },
+    {
+        "id": 16,
+        "name": "Pain Queen",
+        "species": ["Demon"],
+        "className": "Assassin",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/queenofpain.png"
+    },
+    {
+        "id": 17,
+        "name": "Puck",
+        "species": ["Elf", "Dragon"],
+        "className": "Mage",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/puck.png"
+    },
+    {
+        "id": 18,
+        "name": "Witch Doctor",
+        "species": ["Troll"],
+        "className": "Warlock",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/witch_doctor.png"
+    },
+    {
+        "id": 19,
+        "name": "Slardar",
+        "species": ["Naga"],
+        "className": "Warrior",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/slardar.png"
+    },
+    {
+        "id": 20,
+        "name": "Chaos Knight",
+        "species": ["Demon"],
+        "className": "Knight",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/chaos_knight.png"
+    },
+    {
+        "id": 21,
+        "name": "Treant Protector",
+        "species": ["Elf"],
+        "className": "Druid",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/treant.png"
+    },
+    {
+        "id": 22,
+        "name": "Morphling",
+        "species": ["Element"],
+        "className": "Assassin",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/morphling.png"
+    },
+    {
+        "id": 23,
+        "name": "Luna",
+        "species": ["Elf"],
+        "className": "Knight",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/luna.png"
+        
+    },
+    {
+        "id": 24,
+        "name": "Furion",
+        "species": ["Elf"],
+        "className": "Druid",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/furion.png"
+    },
+    {
+        "id": 25,
+        "name": "Slark",
+        "species": ["Naga"],
+        "className": "Assassin",
+        "cost": 2,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/slark.png"
+    },
+    {
+        "id": 26,
+        "name": "Riki",
+        "species": ["Satyr"],
+        "className": "Assassin",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/riki.png"
+    },
+    {
+        "id": 27,
+        "name": "Mirana",
+        "species": ["Elf"],
+        "className": "Hunter",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/mirana.png"
+    },
+    {
+        "id": 28,
+        "name": "Lycan",
+        "species": ["Human", "Beast"],
+        "className": "Warrior",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/lycan.png"
+    },
+    {
+        "id": 29,
+        "name": "Venomancer",
+        "species": ["Beast"],
+        "className": "Warlock",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/venomancer.png"
+    },
+    {
+        "id": 30,
+        "name": "Omni Knight",
+        "species": ["Human"],
+        "className": "Knight",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/omniknight.png"
+    },
+    {
+        "id": 31,
+        "name": "Razor",
+        "species": ["Element"],
+        "className": "Mage",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/razor.png"
+    },
+    {
+        "id": 32,
+        "name": "Wind Ranger",
+        "species": ["Elf"],
+        "className": "Hunter",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/windrunner.png"
+    },
+    {
+        "id": 33,
+        "name": "Phantom Assassin",
+        "species": ["Elf"],
+        "className": "Assassin",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/phantom_assassin.png"
+    },
+    {
+        "id": 34,
+        "name": "Abaddon",
+        "species": ["Undead"],
+        "className": "Knight",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/abaddon.png"
+    },
+    {
+        "id": 35,
+        "name": "Sand King",
+        "species": ["Beast"],
+        "className": "Assassin",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/sand_king.png"
+    },
+    {
+        "id": 36,
+        "name": "Sniper",
+        "species": ["Dwarf"],
+        "className": "Hunter",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/sniper.png"
+    },
+    {
+        "id": 37,
+        "name": "Terrorblade",
+        "species": ["Demon"],
+        "className": "Demon Hunter",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/terrorblade.png"
+    },
+    {
+        "id": 38,
+        "name": "Viper",
+        "species": ["Dragon"],
+        "className": "Assassin",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/viper.png"
+    },
+    {
+        "id": 39,
+        "name": "Shadow Fiend",
+        "species": ["Demon"],
+        "className": "Warlock",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/nevermore.png"
+    },
+    {
+        "id": 40,
+        "name": "Lina",
+        "species": ["Human"],
+        "className": "Mage",
+        "cost": 3,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/lina.png"
+    },
+    {
+        "id": 41,
+        "name": "Doom",
+        "species": ["Demon"],
+        "className": "Warrior",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/doom.png"
+    },
+    {
+        "id": 42,
+        "name": "Kunkka",
+        "species": ["Human"],
+        "className": "Warrior",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/kunkka.png"
+    },
+    {
+        "id": 43,
+        "name": "Troll Warlord",
+        "species": ["Troll"],
+        "className": "Warrior",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/troll_warlord.png"
+    },
+    {
+        "id": 44,
+        "name": "Light Keeper",
+        "species": ["Human"],
+        "className": "Mage",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/keeper_of_the_light.png"
+    },
+    {
+        "id": 45,
+        "name": "Necrophos",
+        "species": ["Undead"],
+        "className": "Warlock",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/necrolyte.png"
+    },
+    {
+        "id": 46,
+        "name": "Templar Assassin",
+        "species": ["Elf"],
+        "className": "Assassin",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/templar_assassin.png"
+    },
+    {
+        "id": 47,
+        "name": "Alchemist",
+        "species": ["Goblin"],
+        "className": "Warlock",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/alchemist.png"
+    },
+    {
+        "id": 48,
+        "name": "Disruptor",
+        "species": ["Orc"],
+        "className": "Shaman",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/disruptor.png"
+    },
+    {
+        "id": 49,
+        "name": "Medusa",
+        "species": ["Naga"],
+        "className": "Hunter",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/medusa.png"
+    },
+    {
+        "id": 50,
+        "name": "Dragon Knight",
+        "species": ["Human", "Dragon"],
+        "className": "Knight",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/dragon_knight.png"
+    },
+    {
+        "id": 51,
+        "name": "Lone Druid",
+        "species": ["Beast"],
+        "className": "Druid",
+        "cost": 4,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/lone_druid.png"
+    },
+    {
+        "id": 52,
+        "name": "Gyrocopter",
+        "species": ["Dwarf"],
+        "className": "Mech",
+        "cost": 5,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/gyrocopter.png"
+    },
+    {
+        "id": 53,
+        "name": "Lich",
+        "species": ["Undead"],
+        "className": "Mage",
+        "cost": 5,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/lich.png"
+    },
+    {
+        "id": 54,
+        "name": "Tide Hunter",
+        "species": ["Naga"],
+        "className": "Hunter",
+        "cost": 5,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/tidehunter.png"
+    },
+    {
+        "id": 55,
+        "name": "Enigma",
+        "species": ["Element"],
+        "className": "Warlock",
+        "cost": 5,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/enigma.png"
+    },
+    {
+        "id": 56,
+        "name": "Techies",
+        "species": ["Goblin"],
+        "className": "Mech",
+        "cost": 5,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/techies.png"
+    },
+    {
+        "id": 57,
+        "name": "Death Prophet",
+        "species": ["Undead"],
+        "className": "Warlock",
+        "cost": 5,
+        "spellId": 1,
+        "icon": "./assets/hero-icons/death_prophet.png"
+    }
+]
