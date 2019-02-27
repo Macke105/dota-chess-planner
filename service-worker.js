@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dota-chess-planner/precache-manifest.67ad51285a95278f5fe4415eb991dac8.js"
+  "/dota-chess-planner/precache-manifest.ac438911ee0c76fea9f9170186b3e0ad.js"
 );
 
 workbox.clientsClaim();
