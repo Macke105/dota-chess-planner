@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "2718d632ba8eb3fec0888c5a567bdba8",
-    "url": "/dota-chess-planner/static/media/morphling_waveform.2718d632.png"
+    "revision": "b1a2e4b341ff60afa7dda0ffcc8d2224",
+    "url": "/dota-chess-planner/static/media/shadow_shaman_voodoo.b1a2e4b3.png"
   },
   {
-    "revision": "dd37872e1853147df2c9",
-    "url": "/dota-chess-planner/static/css/main.84705cbd.chunk.css"
+    "revision": "34717636de6af0299c45",
+    "url": "/dota-chess-planner/static/css/main.0c9b92a5.chunk.css"
   },
   {
     "revision": "ac66059165ddc706439a",
     "url": "/dota-chess-planner/static/js/runtime~main.ac660591.js"
   },
   {
-    "revision": "9341ad181b30822ec877",
-    "url": "/dota-chess-planner/static/js/2.9341ad18.chunk.js"
+    "revision": "2b26da646ce1a5743fc6",
+    "url": "/dota-chess-planner/static/js/2.2b26da64.chunk.js"
   },
   {
     "revision": "fcc232f9de017d9761fa1e3dcbca688e",
@@ -92,12 +92,24 @@ self.__precacheManifest = [
     "url": "/dota-chess-planner/static/media/juggernaut_blade_fury.bc6f8893.png"
   },
   {
+    "revision": "d84bb933bd3e041edade7fdcd855788d",
+    "url": "/dota-chess-planner/static/media/keeper_of_the_light_illuminate.d84bb933.png"
+  },
+  {
     "revision": "2479caf5ae1198fdfcd4d9713b64fc3f",
     "url": "/dota-chess-planner/static/media/kunkka_ghostship.2479caf5.png"
   },
   {
+    "revision": "b27107cdb3b3f79fb1b38dac2d0d9a09",
+    "url": "/dota-chess-planner/static/media/lich_chain_frost.b27107cd.png"
+  },
+  {
     "revision": "833e1a8856b276ba408490bb5f41534b",
     "url": "/dota-chess-planner/static/media/lina_laguna_blade.833e1a88.png"
+  },
+  {
+    "revision": "24318475d7072205148d733c0519e902",
+    "url": "/dota-chess-planner/static/media/lone_druid_spirit_bear.24318475.png"
   },
   {
     "revision": "0c2ed297d330de23354fb63f37e25b68",
@@ -116,8 +128,8 @@ self.__precacheManifest = [
     "url": "/dota-chess-planner/static/media/mirana_arrow.25e4a69a.png"
   },
   {
-    "revision": "dd37872e1853147df2c9",
-    "url": "/dota-chess-planner/static/js/main.dd37872e.chunk.js"
+    "revision": "2718d632ba8eb3fec0888c5a567bdba8",
+    "url": "/dota-chess-planner/static/media/morphling_waveform.2718d632.png"
   },
   {
     "revision": "93c5c940b9fcd8c516fec9338425a58e",
@@ -164,12 +176,16 @@ self.__precacheManifest = [
     "url": "/dota-chess-planner/static/media/sandking_burrowstrike.4ca6c90f.png"
   },
   {
-    "revision": "b1a2e4b341ff60afa7dda0ffcc8d2224",
-    "url": "/dota-chess-planner/static/media/shadow_shaman_voodoo.b1a2e4b3.png"
+    "revision": "34717636de6af0299c45",
+    "url": "/dota-chess-planner/static/js/main.34717636.chunk.js"
   },
   {
     "revision": "a10fdf9f43972be2bf9d3e0f3f6490a3",
     "url": "/dota-chess-planner/static/media/shredder_whirling_death.a10fdf9f.png"
+  },
+  {
+    "revision": "525fe1634df4914a086e2d1cf133cd4d",
+    "url": "/dota-chess-planner/static/media/slardar_amplify_damage.525fe163.png"
   },
   {
     "revision": "0981fe2caa202faf58d14351778e56cf",
@@ -196,12 +212,24 @@ self.__precacheManifest = [
     "url": "/dota-chess-planner/static/media/terrorblade_metamorphosis.02b18486.png"
   },
   {
+    "revision": "b8b2d1680c9877d72b93c353242094e9",
+    "url": "/dota-chess-planner/static/media/tidehunter_ravage.b8b2d168.png"
+  },
+  {
+    "revision": "5f8b9a7adc60405ac778d757ad3d38e2",
+    "url": "/dota-chess-planner/static/media/tinker_heat_seeking_missile.5f8b9a7a.png"
+  },
+  {
     "revision": "73d606e13830f685865d0267a3518bf6",
     "url": "/dota-chess-planner/static/media/tiny_toss.73d606e1.png"
   },
   {
     "revision": "c96d3363012700926820cddb1c609dfe",
     "url": "/dota-chess-planner/static/media/treant_leech_seed.c96d3363.png"
+  },
+  {
+    "revision": "c26cb48e0a7d323308fc08bb576830ab",
+    "url": "/dota-chess-planner/static/media/troll_warlord_fervor.c26cb48e.png"
   },
   {
     "revision": "52d551175f00ab4b5d0076a68266bd8f",
@@ -224,11 +252,107 @@ self.__precacheManifest = [
     "url": "/dota-chess-planner/static/media/witch_doctor_paralyzing_cask.b02ccd8b.png"
   },
   {
+    "revision": "aec6c3b04275de9737f7e6cffefa5aaf",
+    "url": "/dota-chess-planner/static/media/assassin.aec6c3b0.png"
+  },
+  {
+    "revision": "4075d8560829de26b89540ca76ba9b08",
+    "url": "/dota-chess-planner/static/media/demonhunter.4075d856.png"
+  },
+  {
+    "revision": "6ea32f5b3220d54fa35e14dd606876d2",
+    "url": "/dota-chess-planner/static/media/druid.6ea32f5b.png"
+  },
+  {
+    "revision": "0ebc7189a8898905413bd5ada8e47e5a",
+    "url": "/dota-chess-planner/static/media/hunter.0ebc7189.png"
+  },
+  {
+    "revision": "ee7a865d5bc2e76ab686be5916e25904",
+    "url": "/dota-chess-planner/static/media/knight.ee7a865d.png"
+  },
+  {
+    "revision": "6da596cc0e6fdb0b98153ceded5b3a32",
+    "url": "/dota-chess-planner/static/media/mage.6da596cc.png"
+  },
+  {
+    "revision": "40a4a8867735e811fd516d58322fb479",
+    "url": "/dota-chess-planner/static/media/mech.40a4a886.png"
+  },
+  {
+    "revision": "f28d0eb44a33932012c875e64a324fc9",
+    "url": "/dota-chess-planner/static/media/shaman.f28d0eb4.png"
+  },
+  {
+    "revision": "016113cadb2ccf0c50ea530c4fdd2c42",
+    "url": "/dota-chess-planner/static/media/warlock.016113ca.png"
+  },
+  {
+    "revision": "55fc45e891ab9fd622d7d345c50042ae",
+    "url": "/dota-chess-planner/static/media/warrior.55fc45e8.png"
+  },
+  {
+    "revision": "87edbcee258e011ed2ceda9ee355d10f",
+    "url": "/dota-chess-planner/static/media/beast.87edbcee.png"
+  },
+  {
+    "revision": "6209288704bd215b6793543fb5618b13",
+    "url": "/dota-chess-planner/static/media/demon.62092887.png"
+  },
+  {
+    "revision": "b6d20ffc6ab5418ed7559d26b1fdab84",
+    "url": "/dota-chess-planner/static/media/dragon.b6d20ffc.png"
+  },
+  {
+    "revision": "0dc7c5419aafe7e5dff8f79f94f0712f",
+    "url": "/dota-chess-planner/static/media/dwarf.0dc7c541.png"
+  },
+  {
+    "revision": "fc4961228362106c21e668ee77629b0f",
+    "url": "/dota-chess-planner/static/media/element.fc496122.png"
+  },
+  {
+    "revision": "ff8d1a6a55f52a3a703cdecf5131c645",
+    "url": "/dota-chess-planner/static/media/elf.ff8d1a6a.png"
+  },
+  {
+    "revision": "d14cbcedb5f1b084d309ca1d1b42d8b3",
+    "url": "/dota-chess-planner/static/media/goblin.d14cbced.png"
+  },
+  {
+    "revision": "81f800de28b597bcd6127e108d4591e6",
+    "url": "/dota-chess-planner/static/media/human.81f800de.png"
+  },
+  {
+    "revision": "c9c35ba58a4aa8c47be62ac20a083be0",
+    "url": "/dota-chess-planner/static/media/naga.c9c35ba5.png"
+  },
+  {
+    "revision": "a21f3ab59fb78439feef432998873fb9",
+    "url": "/dota-chess-planner/static/media/ogre.a21f3ab5.png"
+  },
+  {
+    "revision": "a1b411a1ea34eaa571c6e7485aa4f83a",
+    "url": "/dota-chess-planner/static/media/orc.a1b411a1.png"
+  },
+  {
+    "revision": "27ef7edbfbd602f09b5a54993686edc2",
+    "url": "/dota-chess-planner/static/media/satyr.27ef7edb.png"
+  },
+  {
+    "revision": "363ec2b7afa7e436d88cb05865a7a273",
+    "url": "/dota-chess-planner/static/media/troll.363ec2b7.png"
+  },
+  {
+    "revision": "9f6f8ad20f8faada18eb13a7681616c4",
+    "url": "/dota-chess-planner/static/media/undead.9f6f8ad2.png"
+  },
+  {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/dota-chess-planner/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "ffb9906b2acfacc0a4b1a40172b19b21",
+    "revision": "b3f9cd6eba5da25853df094f0e2ed202",
     "url": "/dota-chess-planner/index.html"
   }
 ];
